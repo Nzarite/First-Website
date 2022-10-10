@@ -354,5 +354,15 @@ body{
     background-size: cover;
 }
 
-
+@media (max-width: 600) {
+    #registeration_heading {
+        border: 1px solid black;
+        font-size: 24px;
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 25px;
+        margin-top: 30px;
+        background-color: rgb(77, 90, 2);
+    }
+}
 
